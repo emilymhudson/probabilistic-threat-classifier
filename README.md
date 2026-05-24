@@ -1,7 +1,7 @@
 # Advanced Probabilistic Threat Classifier & Calibration Engine
 
 ## Overview
-This repository implements an end-to-end deep learning classification and statistical calibration pipeline designed to mitigate Security Operations Center (SOC) alert fatigue. By resolving the inherent "over-confidence" of standard machine learning classifiers, this architecture guarantees probabilistic honesty—translating raw, uncalibrated deep learning logits into empirically accurate threat probabilities for automated triage routing.
+This repository implements an end-to-end deep learning classification and statistical calibration pipeline designed to mitigate Security Operations Center (SOC) alert fatigue. By resolving the inherent "over-confidence" of standard machine learning classifiers, this architecture guarantees probabilistic honesty. Ttranslating raw, uncalibrated deep learning logits into empirically accurate threat probabilities for automated triage routing.
 
 ## Core Architectural Capabilities
 
